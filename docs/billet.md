@@ -12,8 +12,7 @@
  - Audience : ~ 150
  - Auteur du billet : Marianne RUBAT-CIAGNUS
  - Mots-clés : Dynamique d'équipe, motivation, anticipation, individu et collectif, développement d'entreprise, gestion de projet
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
+ - URL de l'illustration : ![Photo de la première slide de la présentation](https://raw.githubusercontent.com/prodageo/conf2018a-mrubatciagnus/master/docs/IMG_20181122_141042899.jpg)
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence :
