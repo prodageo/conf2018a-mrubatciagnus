@@ -26,14 +26,18 @@
 
 ## Résumé
 "Quelle est la santé de ton projet ?" Voilà une question à laquelle il est difficile de répondre lorsque l'on est à la tête d'un projet. 
-Céline nous présente des astuces pour améliorer cette santé. Le suivit d'un projet est souvent fait par des indicateurs et des métriques, mais le facteur humain, l'évaluation et le maintien de la dynamique de l'équipe ne sont souvent pas assez pris en compte. Céline présente dans ces 5 parties les points importants et les méthodes pour maintenir une bonne dynamique : comment la mesurer?
-comment la maintenir?
-comment l'améliorer? 
-autant de questions auquelles cette coférence apporte des réponses.
+
+Céline nous présente des astuces pour améliorer cette santé. Le suivi d'un projet est souvent fait par des indicateurs et des métriques, mais le facteur humain, l'évaluation et le maintien de la dynamique de l'équipe ne sont souvent pas assez pris en compte. Céline présente dans ces 5 parties les points importants et les méthodes pour maintenir une bonne dynamique : 
+- comment la mesurer?
+- comment la maintenir?
+- comment l'améliorer? 
+Autant de questions auquelles cette conférence apporte des réponses.
 Les points majeurs à retenir sont: 
-Maintenir une cohésion d'équipe et avoir une vision qui a du sens et qui est partagée par tous.
-Chacun a quelque chose à apporter, mais aussi à gagner dans ce projet.
-Mesurer et anticiper sont vos atouts les plus précieux. Mais il faut aussi et surtout proposer de nouvelles choses, renouveler et rendre ludique l'environnement de travail, casser le quotidien et éviter les traditions redondantes.
+- De maintenir une cohésion d'équipe.
+- D'avoir une vision qui a du sens et qui est partagée par tous.
+- Que chacun a quelque chose à apporter, mais aussi à gagner dans le projet.
+- Que mesurer et anticiper sont des atouts précieux, mais qu'il faut aussi et surtout proposer de nouvelles choses, rendre l'environnement de travail ludique.
+- Il est important de casser le quotidien et éviter les traditions redondantes.
 
 ## Architecture et facteur qualité
 ...
