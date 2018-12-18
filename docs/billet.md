@@ -8,7 +8,7 @@
  - Horaire de la conférence : 14h10-14h30
  - Durée de la conférence : 20 min
  - Conférencier(s) :
-   - Céline Gilet https://twitter.com/celinegilet/status/1065613687245946880?s=07 
+   - [Céline Gilet](https://twitter.com/celinegilet/status/1065613687245946880?s=07) 
  - Audience : ~ 150
  - Auteur du billet : Marianne RUBAT-CIAGNUS
  - Mots-clés : Dynamique d'équipe, motivation, anticipation, individu et collectif, développement d'entreprise, gestion de projet
