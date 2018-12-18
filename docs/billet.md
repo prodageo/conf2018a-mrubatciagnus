@@ -33,7 +33,7 @@ Céline nous présente des astuces pour améliorer cette santé. Le suivi d'un p
 - comment l'améliorer? 
 Autant de questions auquelles cette conférence apporte des réponses.
 
-Les points majeurs à retenir sont: 
+Les points majeurs à retenir sont : 
 - De maintenir une cohésion d'équipe.
 - D'avoir une vision qui a du sens et qui est partagée par tous.
 - Que chacun a quelque chose à apporter, mais aussi à gagner dans le projet.
@@ -43,4 +43,4 @@ Les points majeurs à retenir sont:
 ## Architecture et facteur qualité
 L'un des critères qualité affectés par ce que cette conférence nous apporte est le critère d'Usabilité.
 
-En effet, les conseils majeurs données lors de cette conférence encouragent le renouvellement perpétuel. C'est en changeant régulièrement d'environnement qu'on peut s'inscrire dans une dynamique de changement de point de vue. L'équipe sera donc plus encline à adopter le point de vue des clients finaux. c'est grâce à ce changement de point de vue que le code sera amélioré afin de le rendre plus facilement utilisable.
+En effet, les conseils majeurs données lors de cette conférence encouragent le renouvellement perpétuel. C'est en changeant régulièrement d'environnement qu'on peut s'inscrire dans une dynamique de changement de point de vue. L'équipe sera donc plus encline à adopter le point de vue des clients finaux. C'est grâce à ce changement de point de vue que le code sera amélioré afin de le rendre plus facilement utilisable.
