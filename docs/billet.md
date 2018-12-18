@@ -32,6 +32,7 @@ Céline nous présente des astuces pour améliorer cette santé. Le suivi d'un p
 - comment la maintenir?
 - comment l'améliorer? 
 Autant de questions auquelles cette conférence apporte des réponses.
+
 Les points majeurs à retenir sont: 
 - De maintenir une cohésion d'équipe.
 - D'avoir une vision qui a du sens et qui est partagée par tous.
