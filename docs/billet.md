@@ -40,4 +40,6 @@ Les points majeurs à retenir sont:
 - Il est important de casser le quotidien et éviter les traditions redondantes.
 
 ## Architecture et facteur qualité
-...
+L'un des critères qualité affectés par ce que cette conférence nous apporte est le critère d'Usabilité.
+
+En effet, les conseils majeurs données lors de cette conférence encouragent le renouvellement perpétuel. C'est en changeant régulièrement d'environnement qu'on peut s'inscrire dans une dynamique de changement de point de vue. L'équipe sera donc plus encline à adopter le point de vue des clients finaux. c'est grâce à ce changement de point de vue que le code sera amélioré afin de le rendre plus facilement utilisable.
